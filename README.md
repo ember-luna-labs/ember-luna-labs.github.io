@@ -1,26 +1,34 @@
-# Ember Luna Consulting
+# Ember Luna
 
-Ember Luna is an AI automation and workflow consulting studio helping startups and modern teams scale faster.
-
-We design and implement practical AI-powered systems that reduce manual work, streamline operations, and improve customer experience.
-
-## Services
-
-- **AI Workflow Automation**  
-  Custom automation pipelines, internal tools, and AI agents for business operations.
-
-- **Customer Support & Voice Systems**  
-  AI call agents, onboarding flows, and support infrastructure.
-
-- **Payments & Startup Infrastructure**  
-  Stripe integrations, backend workflows, and scalable technical systems.
-
-## Contact
-
-For inquiries or collaborations:
-
-📩 sanjana@emberluna.co
+AI-powered operations for healthcare practices.
 
 ---
 
-© Ember Luna Consulting
+## What I'm building
+
+Prior authorization is one of the most time-consuming, 
+error-prone workflows in a medical practice — and it's 
+getting worse every year. I'm building tooling to fix that, 
+starting with specialty and orthopedic practices in the DFW area.
+
+Currently working with practices to handle PA workflows 
+end to end: submission, follow-up, and appeals — while the 
+software gets built around the real process.
+
+---
+
+## Background
+
+I'm Sanjana — a builder with a background in AI automation 
+and healthcare ops. Previously did contract work helping 
+startups and modern teams implement AI-powered workflows 
+and internal tooling.
+
+---
+
+## Get in touch
+
+If you're a practice administrator or operator dealing with 
+prior authorization volume, I'd love to talk.
+
+📩 sanjana@emberluna.co
